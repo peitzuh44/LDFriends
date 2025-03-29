@@ -2,7 +2,7 @@
 //  ContentView.swift
 //  LDFriends
 //
-//  Created by RD-Pei_Hung on 2025/3/27.
+//  Created by Pei Huang on 2025/3/27.
 //
 
 import SwiftUI
