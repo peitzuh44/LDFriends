@@ -12,7 +12,7 @@ struct HomeView {
     var body: some View {
         ZStack {
             Color.red.ignoresSafeArea(.all)
-            Text("Hello")
+            Text("Hello, MainPage")
         }
     }
 }
