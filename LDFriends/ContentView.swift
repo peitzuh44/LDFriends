@@ -8,6 +8,7 @@
 import SwiftUI
 
 // Rebase Commit 1
+// Rebase Commit 2
 struct ContentView: View {
     var body: some View {
         VStack {
